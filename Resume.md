@@ -1,5 +1,5 @@
 # Ronald Thompson 
-8550 Argyle Business Loop #1002 Jacksonville, >FL 32073 (904)483-6655
+8550 Argyle Business Loop #1002 Jacksonville, FL 32073 (904)483-6655
 
 [rlthompson904@outlook.com](mailto:rlthompson904@outlook.com)
 
@@ -14,27 +14,27 @@ ___
 
 ## STORE MANAGER, CASH AMERICA PAWN
 
-Provided product training to other mangers and upper management.
-Implemented inventory control systems as designed by corporate.
-Provided after purchase support for clients.
+* Provided product training to other mangers and upper management.
+* Implemented inventory control systems as designed by corporate.
+* Provided after purchase support for clients.
 
 
 ### **01/2016 - 10/2018**
 
 ## GENERAL MANAGER, BIG CASH PAWN
 
-Managed a team of 15 employees across 4 locations.
-Trained employees on Microsoft Office and Linux command line applications.
-Advised upper management on network security best practices.
+* Managed a team of 15 employees across 4 locations.
+* Trained employees on Microsoft Office and Linux command line applications.
+* Advised upper management on network security best practices.
 
 ### **08/2010 - 10/2018**
 
 ## TECHNICAL SUPPORT, BIG CASH PAWN
 
-Maintained and supported Wyse terminal thin clients.
-Repaired all electronic returns including computers.
-Maintained and installed all corporate hardware and software.
-Researched and acquired new technology to improve operational efficiency. Configured Linux, OSX, and Microsoft environments for security and policy compliance.
+* Maintained and supported Wyse terminal thin clients.
+* Repaired all electronic returns including computers.
+* Maintained and installed all corporate hardware and software.
+* Researched and acquired new technology to improve operational efficiency. * Configured Linux, OSX, and Microsoft environments for security and policy compliance.
 
 ## Education
 
@@ -50,9 +50,9 @@ COMP001020879912
 
 ## SKILLS
 
-- Computer Installation
-- Networking
-- Multi-OS(Windows, OSX, Linux, Unix) Fluent
-- Troubleshooting
+* Computer Installation
+* Networking
+* Multi-OS(Windows, OSX, Linux, Unix) Fluent
+* Troubleshooting
 
 
