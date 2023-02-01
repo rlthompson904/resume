@@ -10,7 +10,18 @@ ___
 
 ## EXPERIENCE
 
-#### **09/2021 - Current**
+#### **10/2022 - Current**
+
+## Technical Solutions Manager, Skillable
+
+* Advisor for Customer Success Strategy.
+* Managed and trained a fully remote team of 6 engineers across Cloud, Networking, IaC, and Automation disciplines.
+* End escalation point for the suppport experience.
+* Responsible for solution design and architecture of high-value clients.
+* Platform subject matter expert for incident managment teams.
+* Internal consultant for cloud security and cloud architecture.
+
+#### **09/2021 - 10/2022**
 
 ## Tier-3 Manager, Skillable
 
